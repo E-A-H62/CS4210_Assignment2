@@ -4,7 +4,7 @@
 # SPECIFICATION: This program aimed to calculate the LOO-CV error rate for a 1NN classifier.
 #                The classification dealt with identifing spam/ham mail.
 # FOR: CS 4210-Assignment #2
-# TIME SPENT: The entire homework assignment took me about six hours.
+# TIME SPENT: The entire homework assignment took me about seven hours.
 #             This program took about two hours.
 #-----------------------------------------------------------*/
 
