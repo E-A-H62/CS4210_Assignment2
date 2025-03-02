@@ -5,7 +5,7 @@
 #                These models were created with each training set on the provided test set.
 #                This process was repeated ten times, and the average accuracy showed the final classification performance of each model.
 # FOR: CS 4210-Assignment #2
-# TIME SPENT: The entire homework assignment took me about six hours.
+# TIME SPENT: The entire homework assignment took me about seven hours.
 #             This program took about an hour.
 #-----------------------------------------------------------*/
 
