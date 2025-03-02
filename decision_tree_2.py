@@ -1,9 +1,12 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
-# FOR: CS 4210- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# AUTHOR: Elena Hernandez
+# FILENAME: decision_tree_2.py
+# SPECIFICATION: This program aims to train, test, and output the performance of 3 models.
+#                These models were created with each training set on the provided test set.
+#                This process was repeated ten times, and the average accuracy showed the final classification performance of each model.
+# FOR: CS 4210-Assignment #2
+# TIME SPENT: The entire homework assignment took me about six hours.
+#             This program took about an hour.
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard

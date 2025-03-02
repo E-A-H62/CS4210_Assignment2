@@ -1,9 +1,11 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
-# FOR: CS 4210- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# AUTHOR: Elena Hernandez
+# FILENAME: naive_bayes.py
+# SPECIFICATION: This program aimed to output the classification of ten instances from a test set.
+#                The classification was outputted only if the classification confidence was >= 0.75.
+# FOR: CS 4210-Assignment #2
+# TIME SPENT: The entire homework assignment took me about seven hours.
+#             This program took about an hour and a half.
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
